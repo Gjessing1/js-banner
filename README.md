@@ -2,18 +2,15 @@
 A lightweight plugin to display a banner image at the top of your Obsidian notes.
 
 ## Features
-
 * Display banners from local vault images or remote URLs.
 * Visual, grid-based image selector for local files.
 * Global customization via the settings menu.
 * Per-note styling overrides using YAML frontmatter.
 
 ## Usage and Customization
-
 To add a banner, run the "Set banner" command from the command palette or manually add the `banner` key to your note's frontmatter.
 
 ### Plugin Settings
-
 Configure these options globally in Settings > JS Banner.
 
 | Setting | Description |
@@ -25,7 +22,6 @@ Configure these options globally in Settings > JS Banner.
 | **Fade intensity** | Sets the height of the fade effect. |
 
 ### Per-Note Customization (YAML)
-
 Add these keys to a note's frontmatter for specific adjustments.
 
 | Key | Description |
