@@ -44,6 +44,3 @@ banner-y: 0.2
 ```
 
 ## Installation
-
-1.  Go to **Settings** > **Community Plugins** > **Browse** and search for "JS Banner".
-2.  Click **Install**, then enable the plugin.
