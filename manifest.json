@@ -1,0 +1,9 @@
+{
+  "id": "js-banner",
+  "name": "JS Banner",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A lightweight plugin to display a banner at the top of your notes.",
+  "author": "Lars Gjessing",
+  "isDesktopOnly": false
+}
